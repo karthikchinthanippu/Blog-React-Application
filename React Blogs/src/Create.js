@@ -22,7 +22,7 @@ const Create = () => {
             console.log("new blog added")
             setIspending(false)
             navigate("/")
-            console.log("hey buddy");
+            console.log("hey buddy name");
         })
         
     }
