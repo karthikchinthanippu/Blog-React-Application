@@ -11,11 +11,12 @@ const Home = () => {
 
   // const [name,setName] = useState('mario');
    comsole.log("hello how are you");
+   console.log("data")
 
   
   
   return (
-    <div className="home">
+    <div className="home-page">
        {error && <div> {error} </div>}
        {ispending && <div> Loading... </div>}
        {blogs && <BlogList blogs={blogs} title ="All Blogs"/>}
