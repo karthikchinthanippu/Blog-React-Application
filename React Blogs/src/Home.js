@@ -9,7 +9,8 @@ const Home = () => {
   //   setBlogs(newBlogs);
   // }
 
-  // const [name,setName] = useState('mario')
+  // const [name,setName] = useState('mario');
+   comsole.log("hello how are you");
 
   
   
