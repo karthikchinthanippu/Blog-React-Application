@@ -11,6 +11,7 @@ const Home = () => {
 
   // const [name,setName] = useState('mario');
    comsole.log("hello how are you");
+   console.log("data")
 
   
   
