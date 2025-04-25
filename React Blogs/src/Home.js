@@ -15,7 +15,7 @@ const Home = () => {
   
   
   return (
-    <div className="home">
+    <div className="home-page">
        {error && <div> {error} </div>}
        {ispending && <div> Loading... </div>}
        {blogs && <BlogList blogs={blogs} title ="All Blogs"/>}
